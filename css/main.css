@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-   width: 1170px;
+   width: 1140px;
    padding: 0 15px;
    margin: 0 auto;
 }
@@ -81,9 +81,9 @@ aside {
    }
 }
 
- @media screen and (max-width: 980px){
+ @media screen and (max-width: 992px){
    .container {
-      width: 768px;
+      width: 720px;
    }
 }
 
